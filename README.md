@@ -1,4 +1,5 @@
 ## Brazil E-Commerce Sales & Delivery Analytics
+![Dashboard Overview](dashboard_overview.png)
 
 ## Project Overview
 An interactive Excel dashboard project built to analyze Brazilian e-commerce business performance, including sales trends, customer behavior, payment methods, product categories, and delivery performance.
